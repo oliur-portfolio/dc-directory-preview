@@ -1,0 +1,175 @@
+@media (max-width: 1750.98px) {
+  html {
+    font-size: 48%;
+  }
+
+  body {
+    font-size: 2.6rem;
+  }
+
+  .font--64 {
+    font-size: 5.8rem;
+  }
+
+  .font--55 {
+    font-size: 4.5rem;
+  }
+
+  .font--36 {
+    font-size: 3rem;
+  }
+
+  .font--32 {
+    font-size: 2.6rem;
+  }
+
+  .font--24 {
+    font-size: 2rem;
+  }
+
+  .checkbox-label {
+    font-size: 2.6rem;
+  }
+}
+
+@media (max-width: 1199.98px) {
+  .list-layout__sidebar {
+    max-width: 42.9rem;
+  }
+
+  .featured-programs {
+    padding: 6rem;
+  }
+
+  .featured-programs__items {
+    grid-template-columns: repeat(1, 1fr);
+    gap: 2.5rem;
+  }
+
+  .list-layout,
+  .about {
+    flex-direction: column;
+    gap: 8rem;
+  }
+
+  .list-layout__sidebar,
+  .about__sidebar {
+    position: relative;
+  }
+
+  .about__sidebar {
+    max-width: 100%;
+  }
+
+  .about {
+    margin-top: 8rem;
+  }
+
+  .about__sidebar-items {
+    padding: 4rem;
+  }
+}
+
+@media (max-width: 767.98px) {
+  .container,
+  .container-lg,
+  .container-md,
+  .container-sm,
+  .container-xl,
+  .container-xxl {
+    padding-left: 3rem;
+    padding-right: 3rem;
+  }
+
+  html {
+    font-size: 48%;
+  }
+
+  .h1,
+  .h2,
+  .h3,
+  .h4,
+  .h5,
+  .h6,
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    line-height: 1.4 !important;
+  }
+
+  body {
+    font-size: 2.6rem;
+  }
+
+  .font--64 {
+    font-size: 3.6rem;
+  }
+
+  .font--55 {
+    font-size: 3.6rem;
+  }
+
+  .font--36 {
+    font-size: 2.6rem;
+  }
+
+  .font--32 {
+    font-size: 2.2rem;
+  }
+
+  .font--24 {
+    font-size: 2rem;
+  }
+
+  .hero-area {
+    height: 70rem;
+  }
+
+  .featured-programs {
+    padding: 3rem;
+  }
+
+  .list-layout__sidebar h2 {
+    font-size: 3.4rem;
+  }
+
+  .list-layout-area {
+    padding-top: 8rem;
+  }
+
+  .checkbox-label {
+    font-size: 2.2rem;
+  }
+
+  .checkbox-container {
+    gap: 1.8rem;
+  }
+
+  .filter__content-item {
+    margin-bottom: 5rem;
+  }
+
+  .custom__pagination p {
+    font-size: 2.2rem;
+  }
+
+  .nav__logo {
+    width: 20.1rem;
+    height: 5rem;
+  }
+
+  .about__logo {
+    width: 21.7rem;
+    height: 21.7rem;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+  }
+
+  .about-area {
+    padding-bottom: 20rem;
+  }
+}
